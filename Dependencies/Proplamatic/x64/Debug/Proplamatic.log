@@ -1,0 +1,18 @@
+﻿  api-function.cpp
+  vm-functions.cpp
+  ExceptionBase.cpp
+  Main.cpp
+  ClassMapping.cpp
+  CommonCShrap.cpp
+  Dumper.cpp
+  Class.cpp
+  Domain.cpp
+  FieldInfo.cpp
+  Image.cpp
+  MethodInfo.cpp
+  PatternStructs.cpp
+  Object.cpp
+  String.cpp
+  Type.cpp
+  Generating Code...
+  Proplamatic.vcxproj -> C:\Users\craze\Documents\Coding\Monolith-Pixel-Gun-3D-main\x64\Debug\Proplamatic.lib
